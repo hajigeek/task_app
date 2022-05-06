@@ -1,16 +1,12 @@
 # task_app
 
-A new Flutter project.
+Task management flutter UI App
 
-## Getting Started
+## screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot_2022 04 30_23 10 55 918](https://user-images.githubusercontent.com/63127596/166111243-c5b7012c-6460-4a8a-b37f-631578f21d79.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Resources:
+Design: https://dribbble.com/shots/15781204-M...
+Library: https://pub.dev/packages/dotted_border
